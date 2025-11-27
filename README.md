@@ -24,16 +24,55 @@ I enjoy:
 
 # 🔥 Special GitHub Stats (Auto-Updating)
 
-## 📌 **Total Contributions + Streak Summary**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hewig21&theme=tokyonight&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" />
-</p>
+## ⭐ GitHub Activity Summary (Like Your Friend’s)
+<div align="center">
 
-### 📊 Total Contributions Counter  
-> _This number increases automatically whenever you push code_
+<table>
+<tr>
+
+<td align="center">
+  <h2>📌 Total Contributions</h2>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hewig21&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight" 
+    width="260"
+  />
+</td>
+
+<td align="center">
+  <h2>🔥 Current Streak</h2>
+  <img 
+    src="https://streak-stats.demolab.com?user=hewig21&theme=tokyonight&hide_border=true" 
+    width="260"
+  />
+</td>
+
+<td align="center">
+  <h2>🏆 Longest Streak</h2>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=hewig21&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    width="260"
+  />
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Total Contributions Counter  
+> _Auto-increases whenever you push code_
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hewig21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+---
+
+## 🔥 Streak Graph  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hewig21&theme=tokyonight&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" />
 </p>
 
 ---
