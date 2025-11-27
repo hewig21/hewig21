@@ -22,7 +22,7 @@ I enjoy:
 
 ---
 
-# 🔥 Special GitHub Stats (Auto-Updating)
+# 🔥 Special GitHub Stats 
 
 ## ⭐ GitHub Activity Summary (Like Your Friend’s)
 <div align="center">
@@ -62,7 +62,7 @@ I enjoy:
 ---
 
 ## 📊 Total Contributions Counter  
-> _Auto-increases whenever you push code_
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hewig21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -77,10 +77,35 @@ I enjoy:
 
 ---
 
-## 🗂 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hewig21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+## 🎨 Most Used Languages (Custom %)
+
+<div align="center">
+
+<table style="width:400px;">
+<tr>
+<td align="center"><strong>HTML</strong></td>
+<td width="300">
+  <div style="background:#222; border-radius:10px;">
+    <div style="width:60%; background:#ff4500; padding:6px; border-radius:10px; color:white; font-weight:bold;">
+      60%
+    </div>
+  </div>
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>CSS</strong></td>
+<td width="300">
+  <div style="background:#222; border-radius:10px;">
+    <div style="width:40%; background:#00aaff; padding:6px; border-radius:10px; color:white; font-weight:bold;">
+      40%
+    </div>
+  </div>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
