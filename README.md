@@ -1,6 +1,6 @@
 <!-- ===== Hi, I'm Kibra G/tsadkan (hewig21) ===== -->
 <h1 align="center">👋 Hi, I'm <strong>Kibra G/tsadkan</strong></h1>
-<h3 align="center">Full-Stack Developer | Backend Engineer | Automation Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Backend Engineer | Automation  Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/hewig21.png" width="120" style="border-radius:50%;" />
