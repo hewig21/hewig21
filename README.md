@@ -1,30 +1,29 @@
 <!-- ===== Hi, I'm Kibra G/tsadkan (hewig21) ===== -->
 <h1 align="center">👋 Hi, I'm <strong>Kibra G/tsadkan</strong></h1>
-<h3 align="center">Full-Stack Developer | Backend Engineer | Automation  Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Developer | ⚙ Backend Engineer | 🤖 Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/hewig21.png" width="120" style="border-radius:50%;" />
+  <img src="https://github.com/hewig21.png" width="140" style="border-radius:50%; box-shadow:0 0 12px #00eaff;" />
 </p>
 
 ---
 
 ## 🚀 About Me
-
-I'm **Kibra (hewig21)** — a passionate developer who loves building  
-**fast, scalable, and production-ready applications** using modern  technologies.
+I'm **Kibra (hewig21)** — a passionate developer who builds  
+**fast, scalable, and production-ready applications** with modern technologies.
 
 I enjoy:
 - 🔧 Backend development  
-- ⚛ Building modern React apps  
-- 🔥 Working with Firebase  
-- 📱 Creating responsive UIs  
+- ⚛ React ecosystem  
+- 🔥 Firebase  
+- 📱 Responsive UI design  
 - ⚙ Automation & system design  
 
 ---
 
-# 🔥 Special GitHub Stats 
+# 🔥 Special GitHub Stats
 
-## ⭐ GitHub Activity Summary (Like Your Friend’s)
+## ⭐ GitHub Activity Summary  
 <div align="center">
 
 <table>
@@ -34,7 +33,7 @@ I enjoy:
   <h2>📌 Total Contributions</h2>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=hewig21&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight" 
-    width="260"
+    width="270"
   />
 </td>
 
@@ -42,7 +41,7 @@ I enjoy:
   <h2>🔥 Current Streak</h2>
   <img 
     src="https://streak-stats.demolab.com?user=hewig21&theme=tokyonight&hide_border=true" 
-    width="260"
+    width="270"
   />
 </td>
 
@@ -50,7 +49,7 @@ I enjoy:
   <h2>🏆 Longest Streak</h2>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=hewig21&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-    width="260"
+    width="270"
   />
 </td>
 
@@ -62,8 +61,6 @@ I enjoy:
 ---
 
 ## 📊 Total Contributions Counter  
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hewig21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
