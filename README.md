@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 I'm **Kibra (hewig21)** — a passionate developer who builds  
-**fast, scalable, and production-ready applications** with modern  technologies.
+**fast, scalable, and production-ready applications** with modern technologies and tools.
 
 I enjoy:
 - 🔧 Backend development  
@@ -195,4 +195,4 @@ I enjoy:
 
 ---
 
-<p align="center">⭐ Thanks for visiting! Feel free to star any repo you like ⭐</p>
+<p align="center">⭐ Thanks for visiting! Feel free to star any repo you like ⭐</p> 
