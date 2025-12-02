@@ -1,6 +1,6 @@
 <!-- ===== Hi, I'm Kibra G/tsadkan (hewig21) ===== -->
 <h1 align="center">👋 Hi, I'm <strong>Kibra G/tsadkan</strong></h1>
-<h3 align="center">💻 Full-Stack Developer | ⚙ Backend Engineer | 🤖 Automation Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Developer | ⚙ Backend Engineer | 🤖 Automation Enthusiast | Graphics designer</h3>
 
 <p align="center">
   <img src="https://github.com/hewig21.png" width="140" style="border-radius:50%; box-shadow:0 0 12px #00eaff;" />
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 I'm **Kibra (hewig21)** — a passionate developer who builds  
-**fast, scalable, and production-ready applications** with modern technologies.
+**fast, scalable, and production-ready applications** with modern  technologies.
 
 I enjoy:
 - 🔧 Backend development  
